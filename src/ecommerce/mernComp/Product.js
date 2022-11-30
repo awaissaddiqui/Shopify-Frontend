@@ -23,7 +23,7 @@ const Product = () => {
       .catch(err =>{
         //console.log(err);
       })
-  });
+  });// remove the dependence arrary
   return (
     <React.Fragment>
     <div style={{

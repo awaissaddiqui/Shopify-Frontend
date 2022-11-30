@@ -93,7 +93,7 @@ const Register = () => {
                     className="btn btn-success btn-block btn-lg text-body " id="gradient-custom-4">Register</button>
                 </div>
                 <p className="text-center text-muted mt-5 mb-0">Have already an account? <Link to="/login"
-                    className="fw-bold text-body"><u>Login here</u></Link></p>
+                    className="fw-bold text-body"><br></br><u>Login here</u></Link></p>
 
               </form>
 
