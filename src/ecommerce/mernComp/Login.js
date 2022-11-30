@@ -22,7 +22,7 @@ const Login = () => {
     }else{
 
     // axios call
-    axios.post("http://localhost:3001/api/user/login", {
+    axios.post(`https://myshopify-api.herokuapp.com/api/user/login`, {
     email: email, 
     password: password
   }).then(res =>{

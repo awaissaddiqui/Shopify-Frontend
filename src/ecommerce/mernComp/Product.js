@@ -11,7 +11,7 @@ const Product = () => {
   useEffect(()=>{
     const token = localStorage.getItem("token")
     if(!token) return NotificationManager.error("You need to login first", "",3000)
-    axios.get("http://localhost:3001/api/product?pid="+param.pid,{
+    axios.get("https://myshopify-api.herokuapp.com/api/product?pid="+param.pid,{
       headers:{
       token : token
       }

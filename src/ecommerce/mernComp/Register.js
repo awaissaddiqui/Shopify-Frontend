@@ -27,7 +27,7 @@ const Register = () => {
       return;
     }else{
     // axios call
-    axios.post("http://localhost:3001/api/user/register", {
+    axios.post("https://myshopify-api.herokuapp.com/api/user/register", {
     name: name,
     email: email, 
     password: password,
