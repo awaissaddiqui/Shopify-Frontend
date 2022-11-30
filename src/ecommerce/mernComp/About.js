@@ -18,7 +18,7 @@ const About = () => {
                     <p className="">Electronic commerce ecommerce refers to companies and individuals 
                       that buy and sell goods and services over the Internet. Ecommerce 
                       operates in different types of market segments and can be conducted
-                       over computers, tablets, smartphones, and other smart devices. 
+                       over computers, tablets, smartphone, and other smart devices. 
                        Nearly every imaginable product and service is available through 
                        ecommerce transactions, including books, music, plane tickets,
                         and financial services such as stock investing and online banking. 
