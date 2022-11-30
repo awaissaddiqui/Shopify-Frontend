@@ -50,7 +50,7 @@ const Product = () => {
           margin: "30px auto",
           padding: "2px 20px",
         }}
-       onClick={() =>{navigate("/products")}}>Back for Products</button>
+       onClick={() =>{navigate("/products")}}>Back for More Products</button>
       
       </div>
     </div>
