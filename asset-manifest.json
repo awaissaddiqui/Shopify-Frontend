@@ -1,24 +1,23 @@
 {
-  "files": {
-    "main.css": "/Shopify-Frontend/static/css/main.9a7fed7a.css",
-    "main.js": "/Shopify-Frontend/static/js/main.8b4ba75a.js",
-    "static/js/787.6b074461.chunk.js": "/Shopify-Frontend/static/js/787.6b074461.chunk.js",
-    "static/media/man.png": "/Shopify-Frontend/static/media/man.2d3329d7706886d1032b.png",
-    "static/media/home3.jpeg": "/Shopify-Frontend/static/media/home3.6e48c1a667e5c3520523.jpeg",
-    "static/media/mob.png": "/Shopify-Frontend/static/media/mob.eec62bcc37d67d0be12c.png",
-    "static/media/ecommerce marketing.webp": "/Shopify-Frontend/static/media/ecommerce marketing.54c870e6f96329bf52b3.webp",
-    "static/media/logo.png": "/Shopify-Frontend/static/media/logo.5d08462b8f5c0546a94d.png",
-    "static/media/notification.svg?s3g3t9": "/Shopify-Frontend/static/media/notification.5d0158671dd860c714c4.svg",
-    "static/media/notification.eot": "/Shopify-Frontend/static/media/notification.3657084dc0419605a91c.eot",
-    "static/media/notification.woff?s3g3t9": "/Shopify-Frontend/static/media/notification.c392cd33d9d9de730f9d.woff",
-    "static/media/notification.ttf?s3g3t9": "/Shopify-Frontend/static/media/notification.c5d9251ea82e42f75381.ttf",
-    "index.html": "/Shopify-Frontend/index.html",
-    "main.9a7fed7a.css.map": "/Shopify-Frontend/static/css/main.9a7fed7a.css.map",
-    "main.8b4ba75a.js.map": "/Shopify-Frontend/static/js/main.8b4ba75a.js.map",
-    "787.6b074461.chunk.js.map": "/Shopify-Frontend/static/js/787.6b074461.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.9a7fed7a.css",
-    "static/js/main.8b4ba75a.js"
-  ]
+  "main.css": "/Shopify-Frontend/static/css/main.1fbf8d5e.chunk.css",
+  "main.js": "/Shopify-Frontend/static/js/main.d90af5f2.chunk.js",
+  "main.js.map": "/Shopify-Frontend/static/js/main.d90af5f2.chunk.js.map",
+  "static/js/1.3f944d53.chunk.js": "/Shopify-Frontend/static/js/1.3f944d53.chunk.js",
+  "static/js/1.3f944d53.chunk.js.map": "/Shopify-Frontend/static/js/1.3f944d53.chunk.js.map",
+  "static/css/2.29bdd09c.chunk.css": "/Shopify-Frontend/static/css/2.29bdd09c.chunk.css",
+  "static/js/2.d3c2c4e0.chunk.js": "/Shopify-Frontend/static/js/2.d3c2c4e0.chunk.js",
+  "static/js/2.d3c2c4e0.chunk.js.map": "/Shopify-Frontend/static/js/2.d3c2c4e0.chunk.js.map",
+  "runtime~main.js": "/Shopify-Frontend/static/js/runtime~main.41bc38ae.js",
+  "runtime~main.js.map": "/Shopify-Frontend/static/js/runtime~main.41bc38ae.js.map",
+  "static/media/notifications.css": "/Shopify-Frontend/static/media/notification.5bee74ca.svg",
+  "static/media/man.png": "/Shopify-Frontend/static/media/man.86038ab4.png",
+  "static/media/home3.jpeg": "/Shopify-Frontend/static/media/home3.fa306e40.jpeg",
+  "static/media/mob.png": "/Shopify-Frontend/static/media/mob.3f9c48bb.png",
+  "static/media/ecommerce marketing.webp": "/Shopify-Frontend/static/media/ecommerce marketing.68e1a972.webp",
+  "static/media/logo.png": "/Shopify-Frontend/static/media/logo.879febee.png",
+  "static/css/main.1fbf8d5e.chunk.css.map": "/Shopify-Frontend/static/css/main.1fbf8d5e.chunk.css.map",
+  "static/css/2.29bdd09c.chunk.css.map": "/Shopify-Frontend/static/css/2.29bdd09c.chunk.css.map",
+  "index.html": "/Shopify-Frontend/index.html",
+  "precache-manifest.cc8a950963ae06635c02aba7efac05a8.js": "/Shopify-Frontend/precache-manifest.cc8a950963ae06635c02aba7efac05a8.js",
+  "service-worker.js": "/Shopify-Frontend/service-worker.js"
 }
