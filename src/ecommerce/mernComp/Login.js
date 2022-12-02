@@ -62,15 +62,24 @@ const Login = () => {
   
                 {/* <!-- Email input --> */}
                 <div className="form-outline mb-4">
-                  <input type="email" id="form3Example3" onChange={(e)=>setEmail(e.target.value)} value={email}
-                  placeholder="Email address" className="form-control" />
+                  <input 
+                  type="email"
+                   id="email" 
+                   onChange={(e)=>setEmail(e.target.value)}
+                   value={email}
+                  placeholder="Email address"
+                   className="form-control" />
                   <label className="form-label text-light" htmlFor="form3Example3">Email address</label>
                 </div>
 
                 {/* <!-- Password input --> */}
                 <div className="form-outline mb-4">
-                  <input type="password" id="form3Example4" onChange={(e)=>setPassword(e.target.value)} value={password}
-                  placeholder="Password" className="form-control" />
+                  <input type="password"
+                   id="password"
+                   onChange={(e)=>setPassword(e.target.value)}
+                   value={password}
+                   placeholder="Password"
+                   className="form-control" />
                   <label className="form-label text-light"  htmlFor="form3Example4">Password</label>
                 </div>
 

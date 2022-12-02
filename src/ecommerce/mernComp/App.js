@@ -35,19 +35,19 @@ const App = () => {
     <div className="collapse navbar-collapse">
     {/* Navbar items */}
       <ul className="navbar-nav me-auto mb-2 mb-lg-0 fs-4">
-          <Link className="nav-link text-white" to="/">Home</Link>
-          <Link className="nav-link text-white" to="/products">Products</Link>
-          <Link className="nav-link text-white" to="/about">About</Link>
+          <Link className="nav-link text-white" id='home' to="/">Home</Link>
+          <Link className="nav-link text-white" id='products' to="/products">Products</Link>
+          <Link className="nav-link text-white" id='about' to="/about">About</Link>
       </ul>
 
       <div className=" align-items-center ">
-        <Link to="/login"  className="btn btn-lg btn-info me-3 fw-bold ">
+        <Link to="/login" id='login' className="btn btn-lg btn-info me-3 fw-bold ">
           Login
         </Link>
-        <Link to="/register" className="btn btn-lg btn-primary me-3 fw-bold">
+        <Link to="/register" id='register' className="btn btn-lg btn-primary me-3 fw-bold">
           Sign up for free
         </Link>
-        <Link  className="btn btn-lg btn-danger px-3 fw-bold" to="/logout" >LogOut</Link>
+        <Link id='logout' className="btn btn-lg btn-danger px-3 fw-bold" to="/logout" >LogOut</Link>
       </div>
     </div>
  

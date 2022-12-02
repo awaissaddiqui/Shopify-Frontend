@@ -58,31 +58,31 @@ const Register = () => {
               <form onSubmit={(e) => signUp(e)}>
 
                 <div className="form-outline mb-4">
-                  <input type="text" id="form3Example1cg" onChange={(e) =>setName(e.target.value)} 
+                  <input type="text" id="name" onChange={(e) =>setName(e.target.value)} 
                   placeholder="Full name" value={name} className="form-control form-control-lg" />
                   <label className="form-label" htmlFor="form3Example1cg">Your Name</label>
                 </div>
 
                 <div className="form-outline mb-4">
-                  <input type="email" id="form3Example3cg" onChange={(e)=>setEmail(e.target.value)} 
+                  <input type="email" id="email" onChange={(e)=>setEmail(e.target.value)} 
                   placeholder="Email address" value={email} className="form-control form-control-lg" />
                   <label className="form-label" htmlFor="form3Example3cg">Your Email</label>
                 </div>
 
                 <div className="form-outline mb-4">
-                  <input type="password" id="form3Example4cg" onChange={(e)=> setPassword(e.target.value)} 
+                  <input type="password" id="password" onChange={(e)=> setPassword(e.target.value)} 
                  placeholder="Password" value={password} className="form-control form-control-lg" />
                   <label className="form-label" htmlFor="form3Example4cg">Password</label>
                 </div>
 
                 <div className="form-outline mb-4">
-                  <input type="text" id="form3Example5cg" onChange={(e)=> setAddress(e.target.value)} 
+                  <input type="text" id="address" onChange={(e)=> setAddress(e.target.value)} 
                  placeholder="Address" value={address} className="form-control form-control-lg" />
                   <label className="form-label" htmlFor="form3Example5cg">Address</label>
                 </div>
 
                 <div className="form-check d-flex justify-content-center mb-5">
-                  <input className="form-check-input me-2" type="checkbox" value="" id="form2Example3cg" />
+                  <input className="form-check-input me-2" type="checkbox" value="" id="terms" />
                   <label className="form-check-label" htmlFor="form2Example3g">
                     I agree all statements in <u>Terms of service</u>
                   </label>
@@ -93,7 +93,7 @@ const Register = () => {
                     className="btn btn-success btn-block btn-lg text-body " id="gradient-custom-4">Register</button>
                 </div>
                 <p className="text-center text-muted mt-5 mb-0">Have already an account? <Link to="/login"
-                    className="fw-bold text-body"><br></br><u>Login here</u></Link></p>
+                   id='login-link' className="fw-bold text-body"><br></br><u>Login here</u></Link></p>
 
               </form>
 

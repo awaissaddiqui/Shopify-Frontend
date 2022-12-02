@@ -15,7 +15,7 @@ const Home = () => {
                       If you can dream<br></br> it, you can sell it<br></br> with Shopify</h1><br></br>
                     <p className="text-white">
                     <p>Build your business here. Take it anywhere.</p>
-                    <Link to="/register" className="btn btn-lg btn-primary me-3 fw-bold">Start free trial</Link>
+                    <Link to="/register" id="trial" className="btn btn-lg btn-primary me-3 fw-bold">Start free trial</Link>
                     </p>
                     <p className="text-white">Try Shopify free , no credit card required. 
                     By entering your email, you agree to receive marketing emails from Shopify.</p>                
